@@ -1,0 +1,21 @@
+.app {
+  display: flex;
+  height: 100vh;
+}
+
+.left-panel,
+.right-panel {
+  padding: 10px;
+}
+
+.left-panel {
+  width: 30%;
+  background-color: #f0f0f0;
+}
+
+.right-panel {
+  width: 70%;
+  border: 1px solid #ddd;
+  min-height: 400px;
+  background-color: #ffffff;
+}

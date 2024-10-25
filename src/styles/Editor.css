@@ -1,0 +1,21 @@
+/* Editor Component Styles */
+.editor-container {
+  padding: 10px;
+}
+
+.editor-label {
+  display: block;
+  margin-bottom: 5px;
+}
+
+.editor-input {
+  margin-bottom: 10px;
+  padding: 5px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.editor-input img {
+  width: 100%;
+  height: auto;
+}
